@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charliepinto85
-- 👀 I’m interested in Data but VBA and Excel is not enought...
+- 👀 I’m interested in Data but VBA and Excel is not enough...
 - 🌱 I’m currently learning how to survive with Phyton & SQL.
 - 💞️ I’m looking to collaborate on any initiative related with Business & Manufacturing decision. 
 - 📫 How to reach me lcesar.spinto@gmail.com
